@@ -1,3 +1,6 @@
 # 7605_TP1
-Codigo 7506 TP 1 Organizacion de datos;
-Integrantes grupo GMC: Gastón Nuñez, Martin Ríos y Carla Squillace 
+Integrantes OYENTES Grupo GMC: Gastón Nuñez, Martin Ríos y Carla Squillace
+
+Repositorio para el TP1 de la materia 75.06 - Organización de Datos de la Universidad de Buenos Aires (UBA)
+
+Kaggle data: https://www.kaggle.com/c/nlp-getting-started
